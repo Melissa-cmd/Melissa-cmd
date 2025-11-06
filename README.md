@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Melissa Letts banner" width="100%">
+<img src="https://melissa-cmd.github.io/Melissa-cmd/banner.png" width="100%">
 </p>
 
 
