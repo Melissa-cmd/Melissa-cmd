@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Melissa-cmd/Melissa-cmd/blob/main/banner.png" alt="Melissa Letts - Dynamic People-Centered Leader" width="100%">
+</p>
+
 <!-- Profile README for Melissa Letts -->
 
 ### 🌱 Always Evolving
